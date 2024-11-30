@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BTVfFotW1k6qGDcc6quS_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/upload" CVScreenId="ee5c76d7-65de-4805-a61d-f22aee4c6584" DesignTimeRectangle="184, 447, 485, 34" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl visibleinnertext='Check Number:' /&gt;&lt;webctrl id='checkNumber' name='checkNumber' /&gt;" Guid="39de9297-bb41-4590-ab86-c00a9c534310" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Client Check' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ee5c76d7-65de-4805-a61d-f22aee4c6584" CvTextArea="183, 425, 104, 13" CvTextArgument="Check Number:" CvType="Text" DesignTimeRectangle="184, 422, 103, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Check Number:' tag='LABEL' type='' class='' check:innerText='Check Number:' /&gt;" Guid="0ad976ea-ee13-4e47-bd5d-fbac1bbcd1b1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e5d255f4d362f8bb9d1f8157a2a22438.png" xmlns="">0_AUHlet5y0OMVe0BuEaynw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

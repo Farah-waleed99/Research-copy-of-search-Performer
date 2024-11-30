@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dwybrLlu60eE7vqs71b7eQ" Reference="4fBQ1LXHKES0vPg8Juzv6g/VI614kkDiEiD1hG9etUS-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="ebef710c-afba-46fd-a44c-93afdced7436" DesignTimeRectangle="405, 599, 248, 26" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Submit Check Copy' parentid='dashmenu' tag='A' /&gt;" Guid="c9afbef2-64a9-4101-aff4-38e448f0cce2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dd5fae922bcda46044a6be3b06060b2a.png" xmlns="">0t9Q9ZAKuokeV7lsPiHzAPg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

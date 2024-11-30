@@ -1,0 +1,12 @@
+﻿{
+  "Name": "ACME System 3",
+  "Type": "App",
+  "Id": "2U4MqinsdEmoQhqm0CK5zg",
+  "Reference": "4fBQ1LXHKES0vPg8Juzv6g/2U4MqinsdEmoQhqm0CK5zg",
+  "Created": "2024-11-23T08:55:06.569016Z",
+  "Updated": "2024-11-23T08:55:06.569016Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
